@@ -60,9 +60,20 @@ Key performance indicators were used to assess model effectiveness:
 | Random Forest      | High     | High   | High     |
 | Naive Bayes        | Moderate | Moderate | Moderate |
 
-Visual diagnostics provide insight into the model's performance and its trade-offs between accuracy and sensitivity.
+
+## 👨‍💻 **Contributors**  
+- **Timothy Adeyemi** 🚀  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamadeyemi)  
+  - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
 
-## 📂 Repository Structure
+## 📜 **License**  
+This project is licensed under the **MIT License** – feel free to use and improve it!  
 
+---
+
+## ⭐ **Show Your Support!**  
+If you found this project useful, please **star ⭐ the repository** and share it!  
+
+Happy coding! 🚀🏡💻
